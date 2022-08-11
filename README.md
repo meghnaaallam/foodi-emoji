@@ -1,4 +1,4 @@
 # foodi-emoji
 Created with CodeSandbox
 
-### live preview: https://nr63yn-3000.preview.csb.app/
+### live preview: https://2g1tjf-3000.preview.csb.app/
